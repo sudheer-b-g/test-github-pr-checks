@@ -1,3 +1,3 @@
 # test-github-pr-checks
 
-test 6
+test 7
